@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project also uses PHP for backedn and the php files can be found in the pollingapp folder.
+
+Kindly move / copy it to the htdocs folder of your xampp so that you can access it over localhost
 
 ## Available Scripts
 
